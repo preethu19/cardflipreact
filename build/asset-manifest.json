@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cardflipreact/static/css/main.e92f4c07.chunk.css",
+    "main.js": "/cardflipreact/static/js/main.aa205f95.chunk.js",
+    "main.js.map": "/cardflipreact/static/js/main.aa205f95.chunk.js.map",
+    "runtime-main.js": "/cardflipreact/static/js/runtime-main.d45f3d82.js",
+    "runtime-main.js.map": "/cardflipreact/static/js/runtime-main.d45f3d82.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/cardflipreact/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.cfee4092.chunk.js": "/cardflipreact/static/js/2.cfee4092.chunk.js",
+    "static/js/2.cfee4092.chunk.js.map": "/cardflipreact/static/js/2.cfee4092.chunk.js.map",
+    "index.html": "/cardflipreact/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/cardflipreact/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.e92f4c07.chunk.css.map": "/cardflipreact/static/css/main.e92f4c07.chunk.css.map",
+    "static/js/2.cfee4092.chunk.js.LICENSE.txt": "/cardflipreact/static/js/2.cfee4092.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d45f3d82.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.cfee4092.chunk.js",
+    "static/css/main.e92f4c07.chunk.css",
+    "static/js/main.aa205f95.chunk.js"
+  ]
+}
